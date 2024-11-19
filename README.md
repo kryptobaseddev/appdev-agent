@@ -30,11 +30,6 @@ The setup consists of two main components:
 
 Add `AppDevInitialInstructions.md` to the project's custom instructions. This file defines:
 
-```markdown:AppDevInitialInstructions.md
-startLine: 1
-endLine: 17
-```
-
 ### 3. Context Knowledge Setup
 
 Add the following template files to the project's context:
